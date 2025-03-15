@@ -52,7 +52,6 @@ The transcripts contain participants' discussions and feedback, simulating data 
 In this project, I utilized **AG2**, showcasing how agents can work together in a sequential workflow. The main components of this implementation are in the [`fg_transcript_swarm.py`](https://github.com/jsanders108/ag2-fg_transcript_analyzer/blob/main/fg_transcript_swarm.py) file.
 
 ### 1. Shared Context and Utility Functions
-    # fg_transcript_swarm.py (excerpt)
     
     shared_context = {
         "fg_transcripts": "",
