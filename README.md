@@ -210,7 +210,9 @@ The focus group analysis indicates a strong preference for the "Snowberry Bliss"
 
 ## 7. Conclusions
 "Snowberry Bliss" offers a strong market entry, provided it addresses flavor differentiation and premium pricing concerns. Visual appeal and culinary versatility will be key in positioning the product as a luxury item.
-Conclusion
+
+
+## Conclusion
 Through this project, I’ve demonstrated how AG2 can be leveraged to automate and enhance market research processes. By dividing the tasks among specialized agents—ingestion, analysis, quality control, and report writing—researchers can rapidly transform raw transcript data into meaningful reports and strategies.
 
 The modular nature of AG2 allows for easy adaptation to various research contexts, making it a valuable tool for any organization looking to gain deeper insights from qualitative data more efficiently.
