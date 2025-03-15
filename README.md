@@ -76,7 +76,9 @@ def read_data(context_variables: dict) -> SwarmResult:
         context_variables=context_variables,
         values=f"Read transcripts and objectives."
     )
-2. Defining and Recording Outputs
+```
+
+###2. Defining and Recording Outputs
 python
 Copy
 Edit
@@ -101,9 +103,8 @@ def record_report(report: str, context_variables: dict) -> SwarmResult:
         values="Report stored in fg_report."
     )
 3. Accessors and File Output
-python
-Copy
-Edit
+```python
+
 def get_transcripts(context_variables: dict) -> str:
     return context_variables.get('fg_transcripts', '')
 
@@ -118,7 +119,8 @@ def get_objectives(context_variables: dict) -> str:
 
 def write_report_to_file(report: str, filename: str) -> SwarmResult:
     # Writes the final report to a markdown file under 'reports' folder
-    ...
+```
+
 4. Agent Definition and Handoff
 python
 Copy
